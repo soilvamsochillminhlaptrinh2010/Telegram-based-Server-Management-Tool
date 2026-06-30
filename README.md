@@ -85,3 +85,6 @@ This project currently supports:
 - Ubuntu Linux
 
 The project has been successfully tested on **Ubuntu** and **Windows 10 (64-bit)**.
+## Disclaimer
+
+This project is developed strictly for educational purposes, personal server management, and research. The author is NOT responsible for any misuse, damage, or illegal activities caused by this software. Use it at your own risk.
