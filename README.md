@@ -259,4 +259,5 @@ It helps the project get discovered and motivates further development.
 
 Made with curiosity, a home server, and way too much free time.
 
-**Le Quy Don High School for the Gifted – Nam Nha Trang, Vietnam**
+**Le Quy Don High School for the Gifted - 2025 - 2028 – Nam Nha Trang, Vietnam**
+**LE NHAT MINH**
