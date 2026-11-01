@@ -3,7 +3,7 @@
 > 🖥️ **Manage and monitor your server directly from Telegram.**
 > ⚡ Track electricity usage and costs, 🌍 update electricity prices by country, 🔐 configure remote access, and 🛠️ manage your server without sitting in front of it.
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)](https://telegram.org/)
 [![Linux](https://img.shields.io/badge/Linux-supported-success?logo=linux)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-64--bit-blue?logo=windows)](https://www.microsoft.com/windows)
